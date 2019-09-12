@@ -8,5 +8,3 @@ This repository is licensed under the MIT License - see the [LICENSE.md](https:/
 ## Data Entry Analysis [click here](www.unomaha.edu)
 
 ## Data Exploration [click here](www.unomaha.edu)
-
-![help, my legs are short and my tail is gone!](https://www.canva.com/photos/MAC4OX1vvUQ-the-corgi-dog-on-the-grass-in-the-park/?utm_medium=partner&utm_source=PEXELS&utm_term=corgi&utm_content=MAC4OX1vvUQ&utm_campaign=search)
