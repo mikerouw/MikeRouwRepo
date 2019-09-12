@@ -8,3 +8,5 @@ This repository is licensed under the MIT License - see the [LICENSE.md](https:/
 ## Data Entry Analysis [click here](www.unomaha.edu)
 
 ## Data Exploration [click here](www.unomaha.edu)
+
+![my legs are short and someone stole my tail!](https://images.pexels.com/photos/2737393/pexels-photo-2737393.jpeg?cs=srgb&dl=adorable-animal-animal-photography-2737393.jpg&fm=jpg)
