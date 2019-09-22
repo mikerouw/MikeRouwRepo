@@ -2,7 +2,7 @@ ISQA 8086 – Data to Decisions
 Assignment for September 26, 2019
 Author:  Mike Rouw
 
-Summary of Assignment:  
+###Summary of Assignment:  
 This assignment is to review three different data files concerning observations of plankton and identify problems or potential issues with the form and format for the data collected and shared thus far.  Specifically, the assignment is to identify problem areas within the data, and then recommend a table-format for collect the data in the future.
 
 Problems and Issues with the Data:
