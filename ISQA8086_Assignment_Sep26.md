@@ -1,6 +1,4 @@
-Mark down file
-###header 3
->test block
+
 ISQA 8086 – Data to Decisions
 Assignment for September 26, 2019
 Author:  Mike Rouw
