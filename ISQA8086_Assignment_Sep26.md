@@ -41,4 +41,12 @@ Below are the recommendations for the gathering of data in the future.
 
 *Metadata* – A description for the overall purpose of the data, as well as measurement procedures and data value definitions should be developed for the dataset.
 
-Below is a sample of a table which may be used to better organize the data collection for this study.
+Below is a sample of a table which may be used to better organize the data collection for this study.  The first column is a unique, incremental observation number just to sort the data.
+
+| Number | Date | Time | D/N | Location | Temp | Clorophyl | CuniDensity | CuniSize | ChippoDensity | ChippoSize |
+|:------:|:--------:|:----:|:---:|:--------:|:-------:|:---------:|:-----------:|:--------:|:-------------:|:----------:|
+| 1 | YYYYMMDD | HHMM | D/N | A or B | degrees | measure | count/L | mm diameter | count/L | mm diameter |
+
+*Author: Mike Rouw
+Proofreader: Mike Rouw
+
