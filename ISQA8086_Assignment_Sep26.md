@@ -33,7 +33,7 @@ Below are the recommendations for the gathering of data in the future.
 3. Day/Night – This is a day/night indicator (D or N)
 4. Location – This is an indicator of the observation location (A or B)
 5. Temp – This is the temperature measured (degrees F or C)
-6. Chlorophyl – This is the measurement of the chlorophyll
+6. Chlorophyll – This is the measurement of the chlorophyll
 7. Cuni Density – This is the number of Cuni measured (count/liter)
 8. Cuni Size – This is the diameter of the Cuni colony as measured (mm)
 9. Chippo Density – This is the number of Chippo measured (count/liter)
@@ -43,8 +43,8 @@ Below are the recommendations for the gathering of data in the future.
 
 Below is a sample of a table which may be used to better organize the data collection for this study.  The first column is a unique, incremental observation number just to sort the data.
 
-| Number | Date | Time | D/N | Location | Temp | Clorophyl | CuniDensity | CuniSize | ChippoDensity | ChippoSize |
-|:------:|:--------:|:----:|:---:|:--------:|:-------:|:---------:|:-----------:|:--------:|:-------------:|:----------:|
+| Number | Date | Time | D/N | Location | Temp | Clorophyll | CuniDensity | CuniSize | ChippoDensity | ChippoSize |
+|:------:|:--------:|:----:|:---:|:--------:|:-------:|:----------:|:-----------:|:--------:|:-------------:|:----------:|
 | 1 | YYYYMMDD | HHMM | D/N | A or B | degrees | measure | count/L | mm diameter | count/L | mm diameter |
 
 *Author: Mike Rouw*
