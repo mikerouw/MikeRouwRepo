@@ -47,6 +47,7 @@ Below is a sample of a table which may be used to better organize the data colle
 |:------:|:--------:|:----:|:---:|:--------:|:-------:|:---------:|:-----------:|:--------:|:-------------:|:----------:|
 | 1 | YYYYMMDD | HHMM | D/N | A or B | degrees | measure | count/L | mm diameter | count/L | mm diameter |
 
-*Author: Mike Rouw
-Proofreader: Mike Rouw
+*Author: Mike Rouw*
+
+*Proofreader: Mike Rouw (individual assignment)*
 
