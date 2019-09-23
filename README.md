@@ -6,7 +6,7 @@ As these project(s) progress, this README.md information will be updated to gene
 
 This repository is licensed under the MIT License - see the [LICENSE.md](https://github.com/mikerouw/MikeRouwRepo/blob/master/LICENSE.md)
 
-## Data Entry Analysis [click here](www.unomaha.edu)
+## Data Entry Analysis [click here](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Sep26.md)
 
 ## Data Exploration [click here](www.unomaha.edu)
 
