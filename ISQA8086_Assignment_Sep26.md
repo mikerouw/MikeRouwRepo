@@ -3,7 +3,7 @@
 > Author:  Mike Rouw
 
 ### Summary of Assignment:  
-This assignment is to review three different data files concerning observations of plankton and identify problems or potential issues with the form and format for the data collected and shared thus far.  Specifically, the assignment is to identify problem areas within the data, and then recommend a table-format for collect the data in the future.
+This assignment is to review three different data files concerning observations of plankton and identify problems or potential issues with the form and format for the data collected and shared thus far.  Specifically, the assignment is to identify problem areas within the data, and then recommend a table-format for collecting the data in the future.
 
 **Problems and Issues with the Data:**
 The following will outline several issues with the data, in structure, content and definition.
@@ -14,18 +14,18 @@ The following will outline several issues with the data, in structure, content a
 
 *Inconsistent labeling* – There is little consistency in labeling the columns for the data.  Z in one file seems to be Depth in another.  Density in one file seems to be Count/Liter in another.  However, without consistency it is not possible to know for sure.
 
-*Inconsistent formatting* – One of the data files separates the data for the two different sub-species of plankton, while the others identify the sub-species by column.  This makes it difficult to combined the data observations into a consistent format for analysis.
+*Inconsistent formatting* – One of the data files separates the data for the two different sub-species of plankton, while the others identify the sub-species by column.  This makes it difficult to combine the data observations into a consistent format for analysis.
 
 *Lack of definitions* – There is little or unclear definitions given for the specific columns of data in the files.  Without clear definitions, it is difficult to determine what analysis could be done on the dataset.  For instance, is the depth in meters?  Or some other measurement?
 
 *Lack of time of day* – The description of the study mentions that there are differences to be noted based on day or night observations.  The files seemed to have no indication of a time of day when the measurements were taken.
 
-*Missing data* – Some of the observations are simply missing data elements.  Without the proper values, it may be difficult to give a proper analysis.
+*Missing data* – Some of the observations are simply missing data elements.  Without the proper values, it may be difficult to provide a proper analysis.
 
 **Recommendations for Data Gathering:**
 Below are the recommendations for the gathering of data in the future.
 
-*Data Rows* – Each observation should be a row in the table, with new observations adding rows as they occur.
+*Data Rows* – Each observation should be captured in a row in the table, with new observations adding new rows as they occur.
 
 *Data Columns* – These should contain all relevant information about the observation.  Here are the columns that are recommended:
 1. Date – This is the date of the observation (YYYYMMDD)
