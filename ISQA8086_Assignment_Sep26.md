@@ -28,8 +28,8 @@ Below are the recommendations for the gathering of data in the future.
 *Data Rows* – Each observation should be a row in the table, with new observations adding rows as they occur.
 
 *Data Columns* – These should contain all relevant information about the observation.  Here are the columns that are recommended:
-1. Date – This is the date of the observation (MM/DD/YYYY)
-2. Time – This is the time of the observation (HH:MM) on a 24-hour clock
+1. Date – This is the date of the observation (YYYYMMDD)
+2. Time – This is the time of the observation (HHMM) on a 24-hour clock
 3. Day/Night – This is a day/night indicator (D or N)
 4. Location – This is an indicator of the observation location (A or B)
 5. Temp – This is the temperature measured (degrees F or C)
