@@ -32,7 +32,7 @@ geom_smooth(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID),color="black")
 
 this description
 
-![Plot5]()
+![Plot5](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Oct10/Rplot_Faceted_ScatterPlot.png)
 
 > ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
 geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID),color="blue") +
