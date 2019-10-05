@@ -17,7 +17,7 @@ geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Species_ID))
 
 this description
 
-![Plot3]()
+![Plot3](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Oct10/Rplot_Phenopase_FirstYES_Kingdom.png)
 
 > ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
 geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID,color=Kingdom))
