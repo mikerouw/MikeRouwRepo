@@ -5,7 +5,8 @@ The purpose of this assignment was to explore the project data and practice the 
 
 ![Scatter Plot](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Oct10/Rplot_Phenophase_FirstYES.png)
 
-> CodeBlock1
+> ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
+geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID))
 
 this description
 
