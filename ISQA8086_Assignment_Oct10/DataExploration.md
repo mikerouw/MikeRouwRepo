@@ -40,7 +40,7 @@ facet_wrap(~ Site_ID, nrow = 2)
 
 this description
 
-![Plot6]()
+![Plot6](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Oct10/Rplot_BarChart.png)
 
 > ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
 geom_bar(mapping=aes(x=Site_Name),color="red")
