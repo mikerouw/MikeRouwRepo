@@ -29,7 +29,7 @@ This scatterplot shows the specific species and the day of the year when the spe
 > ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
 geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID,color=Kingdom))
 
-This scatterplot simply adds color to Plot 1 above, showing which obeservations were made for plants versus animals.  Again, without further segmentation into specific species, this view does not provide much insight.
+This scatterplot simply adds color to **Plot 1** above, showing which obeservations were made for plants versus animals.  Again, without further segmentation into specific species, this view does not provide much insight.
 
 **Plot 4 - Scatterplot of phenophase and date of "first YES" observation with trend line**
 
@@ -39,7 +39,7 @@ This scatterplot simply adds color to Plot 1 above, showing which obeservations 
 geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID),color="blue") +
 geom_smooth(mapping=aes(x=Mean_First_Yes_DOY,y=Phenophase_ID),color="black")
 
-This scatterplot simply adds a trend line to Plot 1 above.  In this case, the trend line is pretty meaningless, as again the whole of the dataset is mixed, and should first be segmented into specific species for more meaningful analysis.
+This scatterplot simply adds a trend line to **Plot 1** above.  In this case, the trend line is pretty meaningless, as again the whole of the dataset is mixed, and should first be segmented into specific species for more meaningful analysis.
 
 **Plot 5 - Faceted scatterplot of Plot 1 divided by site location**
 
