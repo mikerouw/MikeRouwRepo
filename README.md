@@ -8,6 +8,6 @@ This repository is licensed under the MIT License - see the [LICENSE.md](https:/
 
 ## Data Entry Analysis [click here](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Sep26.md)
 
-## Data Exploration [click here](www.unomaha.edu)
+## Data Exploration [click here](https://github.com/mikerouw/MikeRouwRepo/blob/master/ISQA8086_Assignment_Oct10/DataExploration.md)
 
 ![my legs are short and someone stole my tail!](https://images.pexels.com/photos/2737393/pexels-photo-2737393.jpeg?cs=srgb&dl=adorable-animal-animal-photography-2737393.jpg&fm=jpg)
