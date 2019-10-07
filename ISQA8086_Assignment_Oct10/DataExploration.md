@@ -20,7 +20,7 @@ This scatterplot shows the specific phenophase identifier and the day of the yea
 > ggplot(data=site_phenometrics_data_wo_zero_oberservations) +
 geom_point(mapping=aes(x=Mean_First_Yes_DOY,y=Species_ID))
 
-This scatterplot shows the specific species and the day of the year when the specified phenophase was first observed.  Must like before, there is really no pattern in this view, as again the data is mixed and unsegmented at this point.
+This scatterplot shows the specific species and the day of the year when the specified phenophase was first observed.  Much like before, there is really no pattern in this view, as again the data is mixed and unsegmented at this point.
 
 **Plot 3 - Scatterplot of phenophase and date of "first YES" observation identified by kingdom (plant or animal)**
 
