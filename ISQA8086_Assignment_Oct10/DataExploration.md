@@ -63,3 +63,11 @@ This bar chart shows the total number of observations made at each site as conta
 **Summary**
 
 For the Jean Lafitte dataset, there is little information that can be gained from looking at the entirety of the data.  Rather, the dataset will need to be separated and segmented so that meaningful comparisons and observations can be made.  This is because each species has very different phenophase events with very differnt timings.  The data most likely will need to be segmented by species to obtain any valuable observations.
+
+**Contributorship Statement**
+
+I, Mike Rouw, am the sole author and contributor to this document, save the original data provided by Jean Lafitte National Historical Park and Preserve.
+
+**Proofreader Statement**
+
+I, Mike Rouw, have proofread this document and approved it for submission.
